@@ -12,3 +12,5 @@ angel.vasquez.unam@ggmail.com
 4. Una vez se imprime su elección, podrá elegir nuevamente otra alternativa (haciendo uso del valor ya dado) o regresar al menú principal para salir o asignar un valor diferente.
 
 ## Capturas
+
+![Captura](https://raw.githubusercontent.com/AngelVasquezNep/objetos-geometricos/master/capturas/objetos-geometricos-1.png)
